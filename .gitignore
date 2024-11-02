@@ -43,3 +43,4 @@ app.*.map.json
 /android/app/release
 
 djs-speedsters.mp4
+bike_ui/
